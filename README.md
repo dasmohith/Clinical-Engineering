@@ -1,1 +1,1 @@
-The program can be used to automate the calculation of new A and B values required to realibrate the BD Bodyguard T syringe drivers.
+The program can be used to automate the calculation of new A and B values required to realibrate the BD Bodyguard T syringe drivers. All A, B, C and D values are tabulated which can be saved as proof of calibration.
